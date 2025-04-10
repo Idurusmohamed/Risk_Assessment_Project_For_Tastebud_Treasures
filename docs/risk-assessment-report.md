@@ -29,7 +29,7 @@ General Data Protection Regulation (GDPR): If they have customers in the Europea
 
 The following are key assets for "Tastebud Treasures" that require protection:
 
-+--------------------+
+--------------------+
 | Tastebud Treasures |
 +--------------------+
 |
