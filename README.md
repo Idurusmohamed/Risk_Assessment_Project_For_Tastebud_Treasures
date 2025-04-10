@@ -1,4 +1,3 @@
-## cyber-risk-research
 # Cybersecurity Risk Assessment for Tastebud Treasures
 
 This repository contains a cybersecurity risk assessment and mitigation strategy for "Tastebud Treasures," a fictional e-commerce business specializing in monthly subscription boxes of artisanal food products.
