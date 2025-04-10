@@ -17,7 +17,7 @@ Data Handling: Collection and storage of customer PII (name, address, email, pay
 
 1.2. Organizational Structure (Simplified):
 
-![Tastebud Treasures Organizational Structure](images/organizational-structure.png)
+![Tastebud Treasures Organizational Structure](images/org-structure.png)
 
 1.3. Regulatory Compliance: 
 Based on the business operations, "Tastebud Treasures" would likely need to consider the following regulations:
