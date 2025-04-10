@@ -21,6 +21,7 @@ A[Owner/Manager] --> B(Website Management & Marketing);
 A --> C(Product Curation & Sourcing);
 A --> D(Operations & Fulfillment);
 A --> E(Customer Service);
+
 1.3. Regulatory Compliance:
 
 Based on the business operations, "Tastebud Treasures" would likely need to consider the following regulations:
