@@ -20,7 +20,7 @@ graph TD
 A[Owner/Manager] --> B(Website Management & Marketing);
 A --> C(Product Curation & Sourcing);
 A --> D(Operations & Fulfillment);
-A --> E(Customer Service);
+A --> E(Customer Service); 
 
 1.3. Regulatory Compliance:
 
