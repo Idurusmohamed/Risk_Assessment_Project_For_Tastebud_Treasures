@@ -15,15 +15,16 @@ Customer Support: Primarily handled via email and a contact form on the website.
 Data Handling: Collection and storage of customer PII (name, address, email, payment details), subscription preferences, and order history.
 1.2. Organizational Structure (Simplified):
 
+1.2. Organizational Structure (Simplified):
+
 ```mermaid
 graph TD
 A[Owner/Manager] --> B(Website Management & Marketing);
 A --> C(Product Curation & Sourcing);
 A --> D(Operations & Fulfillment);
-A --> E(Customer Service); 
+A --> E(Customer Service);
 
-1.3. Regulatory Compliance:
-
+1.3. Regulatory Compliance: 
 Based on the business operations, "Tastebud Treasures" would likely need to consider the following regulations:
 
 Payment Card Industry Data Security Standard (PCI DSS): If directly handling or storing credit card information. Even if using a third-party payment processor, they need to ensure compliance with relevant clauses.
