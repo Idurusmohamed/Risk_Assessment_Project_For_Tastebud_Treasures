@@ -9,7 +9,7 @@ This project comprises a comprehensive risk assessment conducted for Tastebud Tr
 The project is organized as follows:
 
 * **README.md:** This file (you are currently reading it) serves as the entry point for the project, providing a summary of the risk assessment and guiding the reader through the project structure.
-* **[doc/risk-assessment-report.md](doc/risk-assessment-report.md):** This file contains the detailed risk assessment report, including:
+* **[docs/risk-assessment-report.md](docs/risk-assessment-report.md):** This file contains the detailed risk assessment report, including:
     * Project initiation and scoping
     * Threat and vulnerability identification
     * Risk assessment and analysis
@@ -27,9 +27,9 @@ The project is organized as follows:
         * Project structure and file organization
         * Summary of the risk assessment findings
         * Guidance on how to navigate the project documentation, specifically how this README relates to the detailed report.
-    * **Relationship to risk-assessment-report.md:** This file summarizes the key findings and recommendations detailed in `[doc/risk-assessment-report.md](doc/risk-assessment-report.md)`. It acts as a condensed version, providing a quick understanding before diving into the specifics. It also explains the organization of the project.
+    * **Relationship to risk-assessment-report.md:** This file summarizes the key findings and recommendations detailed in `[docs/risk-assessment-report.md](docs/risk-assessment-report.md)`. It acts as a condensed version, providing a quick understanding before diving into the specifics. It also explains the organization of the project.
 
-2.  **doc/risk-assessment-report.md**
+2.  **docs/risk-assessment-report.md**
 
     * **Purpose:** Contains the complete and detailed risk assessment report. It provides an in-depth analysis of identified risks, their potential impact, and recommended mitigation strategies.
     * **Content:**
