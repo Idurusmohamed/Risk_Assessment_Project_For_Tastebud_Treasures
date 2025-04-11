@@ -219,19 +219,7 @@ Phase 5: Documentation and Presentation
 
 The following is a high-level implementation plan:
 
-Code snippet
-
-┌────────────────┐  ┌─────────────┐   ┌───────────┐   ┌────────────────┐   ┌─────────────────────────┐
-│Patch Web Server│  │Implement MFA│   │Install WAF│   │Conduct Training│   │Develop Incident Response│
-├────────────────┤  ├─────────────┤   ├───────────┤   ├────────────────┤   ├─────────────────────────┤
-└────────────────┘  └─────────────┘   └───────────┘   └────────────────┘   └─────────────────────────┘
-         |                  |                |                 |                         |            
-         |                  |                |                 |                         |            
-    ┌────────┐         ┌────────┐       ┌────────┐         ┌───────┐                ┌───────┐         
-    │Week 1-2│         │Week 2-3│       │Week 3-4│         │Ongoing│                │Month 1│         
-    ├────────┤         ├────────┤       ├────────┤         ├───────┤                ├───────┤         
-    └────────┘         └────────┘       └────────┘         └───────┘                └───────┘         
-
+![Tastebud Treasures Implementation Plan](images/impl.plan.drawio.png)
 
 Week 1-2: Patch the web server.
 Week 2-3: Implement MFA.
