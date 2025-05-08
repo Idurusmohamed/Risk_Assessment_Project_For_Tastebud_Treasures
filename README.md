@@ -15,7 +15,7 @@ The project is organized as follows:
     * Risk assessment and analysis
     * Risk mitigation strategies and recommendations
     * Documentation and presentation
-* **Other relevant files/directories:** [Add any other relevant files or directories here, e.g., diagrams, scripts, etc.]
+<!--* **Other relevant files/directories:** [Add any other relevant files or directories here, e.g., diagrams, scripts, etc.]-->
 
 ## Key Components and How They Tie Together
 
